@@ -1,4 +1,4 @@
-- Hi, I’m @panablo
+- Hi, I’m @pablomesen
 - I’m interested in learning python
 - I’m currently learning python, first semester of software engineering
 - I’m looking to collaborate on basic python projects
